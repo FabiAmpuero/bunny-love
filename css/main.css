@@ -1,0 +1,134 @@
+/* ----------------------------------------------------------------------------------- GENERAL -- */
+* {
+    outline: 1px solid rgba(255, 0, 0, 0.4);
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Baloo Paaji", sans-serif;
+}
+.container {
+    width: 70%;
+}
+h1, h2, h3, h4, h5 {
+    font-family: "Baloo Paaji",;
+}
+p {
+    font-family: Prompt;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.7em;
+}
+h3 {
+    color: #ff7673;
+}
+/* ------------------------------------------------------------------------------------ HEADER -- */
+header {
+    background: #037f99;
+    padding: 20px 0;
+}
+header a {
+    color: #fff;
+}
+header ul a:hover {
+    text-decoration: none;
+    color: rgba(3, 5, 15, 0.80);
+}
+header .logo {
+    font-size: 30px;
+    font-weight: bold;
+}
+header .logo .pink {
+    color: #ff7673;
+}
+header .logo:hover {
+    text-decoration: none;
+    color: #fff;
+}
+.desktop-menu {
+    font-family: sans-serif;
+    margin: 10px 0 0 0;
+}
+/* -------------------------------------------------------------------------------------- HERO -- */
+.hero .container {
+    background: url(../img/img-1.jpg) no-repeat;
+    background-attachment: scroll;
+    background-position: top;
+    background-size: cover;
+}
+.hero .texto-hero {
+    text-align: center;
+    background: rgba(3, 127, 153, 0.85); 
+    margin: 50px 80px;
+    padding: 40px 0 40px 0;
+}
+.hero h1 {
+    color: #ff7673;
+    font-size: 80px;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+.hero p {
+    font-family: sans-serif;
+    font-style: italic;
+    color: #fff;
+}
+/* ------------------------------------------------------------------------------------- TALES -- */
+.tales {
+    margin: 25px 0;
+}
+.tales h3 {
+    margin: 0;
+    text-align: center;
+    font-size: 16px;
+    padding: 10px 0 20px 0;
+}
+.tales p {
+    color: #fff;
+    text-align: center;
+    padding: 0 3px 18px 0;
+}
+.tales .fondo-tale {
+    background: #037f99;
+    padding: 5px 13px;
+}
+/* --------------------------------------------------------------------------------- CONTENIDO -- */
+.contenido .container {
+    background: #037f99;
+    padding: 20px;
+}
+.contenido h3 {
+    margin-top: 0;
+}
+.contenido .white-box {
+    background: #d8f6ff;
+    margin-bottom: 0;
+}
+.contenido .white-box p {
+    margin-bottom: 0;
+}
+.contenido .iconos-aside {
+    padding: 40px 0 25px 0;
+}
+.icons-social {
+    color: #037f99;
+    display: block;
+    text-align: center;
+    border-radius: 20px;
+    padding: 9px;
+    background: #fff;
+}
+/* ------------------------------------------------------------------------------------ FOOTER -- */
+/* -------------------------------------------------------------------------------------- HERO -- */
+/* -------------------------------------------------------------------------------------- HERO -- */
+/*
+#037f99 azul
+#ff7673 rosado
+*/
+
+
+
+
+
+
+
